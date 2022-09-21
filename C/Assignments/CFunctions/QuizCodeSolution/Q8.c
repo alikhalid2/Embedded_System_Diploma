@@ -1,9 +1,4 @@
-/*
- * EX4.c
- *
- *  Created on: Sep 18, 2022
- *      Author: ali khaled
- */
+//Q8
 
 
 #include <stdio.h>
